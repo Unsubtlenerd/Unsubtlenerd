@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unsubtlenerd
 - 👀 I’m interested in mechanical+electronic engineering (mechatronics), cycloidal drives and lithium ion batteries, programming in C++ & Java
-- 🌱 I’m currently studying Mechanical Engineering @ Lougborough University
+- 🌱 I’m currently studying Mechanical Engineering @ Loughborough University
 - 💞️ I’m looking to collaborate on 3D printed robot arm design
 - 📫 How to reach me: Instagram @Unsubtlenerd
 
